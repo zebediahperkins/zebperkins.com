@@ -1,0 +1,33 @@
+.navbar {
+    height: 100%;
+    width: 210px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgb(190, 255, 255);
+    overflow-x: hidden;
+    margin-top: 0;
+    padding-left: 0;
+    padding-top: 20px;
+}
+
+.navbar li:hover {
+    color: white;
+}
+
+.navbar li:active {
+    color: rgb(130, 130, 130);
+}
+
+@media (max-width: 1400px) {
+    .navbar {
+        width: 15vw;
+    }
+}
+
+@media (max-width: 500px) {
+    .navbar {
+        width: 65px;
+    }
+}
