@@ -15,7 +15,7 @@ export default function About() {
                 <li>MERN Stack (Mongo, express, react, node)</li>
                 <li>Javascript/Typescript/npm</li>
                 <li>.NET Framework</li>
-                <li>Java/Kotlin</li>
+                <li>Java/Kotlin/Swift</li>
             </ul>
 
             <h2>Work Experience</h2>
