@@ -12,9 +12,10 @@ export default function About() {
             <h2>Skills</h2>
             <p>I have a solid understanding of many things computer science related. However, I am most proficient in the following:</p>
             <ul className='circleList'>
-                <li>MERN Stack (Mongo, express, react, node)</li>
+                <li>MERN Stack (Mongo, Express, React, Node)</li>
                 <li>Javascript/Typescript/npm</li>
                 <li>.NET Framework</li>
+                <li>SpringBoot</li>
                 <li>Java/Kotlin/Swift</li>
             </ul>
 
