@@ -7,7 +7,7 @@ export default function About() {
             <h4>Full Stack Software Engineer/Student</h4>
 
             <h2>Education</h2>
-            <p>I'm a third year Computer Science student at the University of Massachusetts Amherst.</p>
+            <p>I'm a third year student at the University of Massachusetts Amherst.</p>
 
             <h2>Skills</h2>
             <p>I have a solid understanding of many things computer science related. However, I am most proficient in the following:</p>
