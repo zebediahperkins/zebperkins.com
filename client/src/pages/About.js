@@ -10,17 +10,16 @@ export default function About() {
             <p>I'm a third year student at the University of Massachusetts Amherst.</p>
 
             <h2>Skills</h2>
-            <p>I have a solid understanding of many things computer science related. However, I am most proficient in the following:</p>
+            <p>Projects I've worked on have used the following:</p>
             <ul className='circleList'>
-                <li>MERN Stack (Mongo, Express, React, Node)</li>
-                <li>Javascript/Typescript/npm</li>
+                <li>React and Node.js</li>
                 <li>.NET Framework</li>
-                <li>SpringBoot</li>
-                <li>Java/Kotlin/Swift</li>
+                <li>Unity</li>
+                <li>Java</li>
             </ul>
 
             <h2>Work Experience</h2>
-            <p>To this point, I have no professional work experience in this field. You can find projects I've worked on in the 'Portfolio' section of this website. I am actively searching for an internship for the summer of 2021.</p>
+            <p>You can find projects I've worked on in the 'Portfolio' section of this website. I am actively seeking an internship for the summer of 2021.</p>
         </div>
     );
 }
