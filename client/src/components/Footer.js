@@ -8,7 +8,7 @@ export default function Footer() {
                 <li><a href='https://www.npmjs.com/~zebediahperkins'><img src='https://i.imgur.com/Sr9lOAF.png' alt='npmjs' /></a></li>
                 <li><a href='https://stackoverflow.com/users/13578873/zebediah-perkins?tab=profile'><img src='https://i.imgur.com/6wNKc00.png' alt='stackoverflow' /></a></li>
             </ul>
-            <p>&copy; 2020 Zebediah Perkins</p>
+            <p>&copy; 2021 Zebediah Perkins</p>
         </footer>
     );
 }
