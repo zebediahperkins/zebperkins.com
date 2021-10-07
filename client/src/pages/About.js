@@ -3,7 +3,11 @@ import React from 'react';
 export default function About() {
     return(
         <div>
-            <h1>Hey, I'm Zebediah Perkins</h1>
+            <h1>Hey, I'm 
+                <a href='https://docs.google.com/document/d/e/2PACX-1vTa8C5vDFhm4Urr7vjvXS1y0CBxjCq7DlqGjfYn9xWfdcY1qwvyQCympdGlHQJ66R98rZ_UXRijxwt5/pub'>
+                    Zebediah Perkins
+                </a>
+            </h1>
 
             <h2>Education</h2>
             <p>I'm a third year student at the University of Massachusetts Amherst.</p>
